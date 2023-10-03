@@ -1,28 +1,21 @@
-#red{
-    color:red
+/* Don't change the existing CSS. */
+#outer-box{
+  background-color: purple;
+}
+.box {
+  background-color: blue;
+  padding: 10px;
 }
 
-#bule{
-    color:blue
+.inner-box{
+  background-color: red;
+
 }
 
-#orange{
-    color:orange
+p {
+  color: white;
+  margin: 0;
+  padding: 0;
 }
 
-#green{
-    color:green
-}
 
-#yello{
-    color:yellow
-}
-
-.color-title{
-    font-weight: lighter;
-}
-
-img{
-    height: 200px;
-    width: 200px;
-}
